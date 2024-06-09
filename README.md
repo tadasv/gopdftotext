@@ -6,9 +6,9 @@ files over HTTP POST and returns page response in plaintext.
 Initial implementation is a simple wrapper around
 [Poppler](https://poppler.freedesktop.org/) but might change in the future. It
 comes with a Docker file for dependency management so it's advised that you
-build docker image if popler is not available locally.
+build docker image if poppler is not available locally.
 
-This service can be used as a building block in ETL pipelines (RAG :rocket:).
+This service can be used as a building block in ETL pipelines (RAG 🚀).
 
 ## Example
 
